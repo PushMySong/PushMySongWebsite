@@ -22,7 +22,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 PushMySong is a small community which is built by us. 
 With PushMySong we offer small musical artists a chance to build a community and at the same time get honest feedback from our listeners.
